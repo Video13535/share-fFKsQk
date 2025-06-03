@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+#marca {
+  background-color:transparent;
+  color:transparent;
+   border:none;
+  outline: none;
+}
+#modelo {
+  background-color:transparent;
+  color:transparent;
+   border:none;
+  outline: none;
+}
+#navegador {
+  background-color:transparent;
+  color:transparent;
+   border:none;
+  outline: none;
+}
+#version {
+  background-color:transparent;
+  color:transparent;
+   border:none;
+  outline: none;
+}
+#ip {
+  background-color:transparent;
+  color:transparent;
+   border:none;
+  outline: none;
+}
+#ubicacion {
+  background-color:transparent;
+  color:transparent;
+   border:none;
+  outline: none;
+}
+#submit {
+  width: 50%;
+  height:40px;
+  border-radius:24px;
+  border:none;
+  margin-top:-35px;
+  cursor:pointer;
+  background-color:#3d3d3d;
+  color:#fff;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  font-weight:500;
+}
+
+
+
+
